@@ -1,0 +1,10 @@
+{
+  "name": "hardcore-functional-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Franklin Jezreel",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  }
+}
